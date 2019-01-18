@@ -5063,15 +5063,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [
     {
      "ename": "SyntaxError",
-     "evalue": "invalid syntax (<ipython-input-6-fe03d0b23a55>, line 5)",
+     "evalue": "invalid syntax (<ipython-input-7-e124aa7fdde5>, line 5)",
      "output_type": "error",
      "traceback": [
-      "\u001b[1;36m  File \u001b[1;32m\"<ipython-input-6-fe03d0b23a55>\"\u001b[1;36m, line \u001b[1;32m5\u001b[0m\n\u001b[1;33m    vacation_packages.remove('NoneType' object has no attribute 'text')\u001b[0m\n\u001b[1;37m                                             ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid syntax\n"
+      "\u001b[1;36m  File \u001b[1;32m\"<ipython-input-7-e124aa7fdde5>\"\u001b[1;36m, line \u001b[1;32m5\u001b[0m\n\u001b[1;33m    Vacation_Packages.remove('NoneType' object has no attribute 'text')\u001b[0m\n\u001b[1;37m                                             ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid syntax\n"
      ]
     }
    ],
@@ -5080,7 +5080,7 @@
     "for item in results:\n",
     "    print(item)\n",
     "    try: \n",
-    "        acation_packages.remove('NoneType' object has no attribute 'text')\n",
+    "        Vacation_Packages.remove(NoneType object has no attribute 'text')\n",
     "    except:\n",
     "        pass"
    ]
