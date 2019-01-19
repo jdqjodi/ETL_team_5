@@ -42,5 +42,5 @@ Our group will be exploring Honolulu, the hottest destination for Toronto people
 |---------|-----------------|
 |[Paola Poblete](https://github.com/paola-poblete)| @Paola        |
 |[Swati Madan](https://github.com/[github handle]) |  @Swati Madan    |
-|[Bobby Bhattacharjee](https://github.com/[github handle]) |  @Bobby    |
+|[Bobby Bhattacharjee](https://github.com/write2bobby) |  @Bobby    |
 |[Jodi Qiao](https://github.com/[github handle]) |  @Jodi    |
