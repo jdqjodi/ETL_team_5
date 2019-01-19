@@ -1,4 +1,4 @@
-# Are we going to Hawaii?
+# We're in Hawaii! Where shall we stay? Where do we get food?
 
 This  project is part II of the University of Toronto Data Analytics Boot Camp group projects series. 
 
