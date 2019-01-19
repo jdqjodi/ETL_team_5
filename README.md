@@ -41,6 +41,6 @@ Our group will be exploring Honolulu, the hottest destination for Toronto people
 |Name     |  Slack Handle   | 
 |---------|-----------------|
 |[Paola Poblete](https://github.com/paola-poblete)| @Paola        |
-|[Swati Madan](https://github.com/swati1987) |  @Swati Madan    |
+|[Swati Madan](https://github.com/Swati1987) |  @Swati Madan    |
 |[Bobby Bhattacharjee](https://github.com/write2bobby) |  @Bobby    |
-|[Jodi Qiao](https://github.com/[github handle]) |  @Jodi    |
+|[Jodi Qiao](https://github.com/jodiqiao) |  @Jodi    |
