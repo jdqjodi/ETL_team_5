@@ -2,7 +2,7 @@
 
 This  project is part II of the University of Toronto Data Analytics Boot Camp group projects series. 
 
-#### -- Project Status: [Near Completion]
+#### -- Project Status: Completed. See online PLOTLY JSON PRESENTATION: https://plot.ly/~paolapoblete/48/hawaii-json/
 
 ## Project Intro/Objective
 
